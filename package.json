@@ -1,0 +1,24 @@
+{
+  "name": "userView",
+  "version": "1.0.0",
+  "description": "Demo for product view count",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahmeetn/mean-boilerplate.git"
+  },
+  "keywords": [
+    "mean"
+  ],
+  "author": "ast",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "moment": "^2.24.0",
+    "mongoose": "^5.7.0"
+  }
+}
